@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aos",
+  "name": "Ashes of Soul",
+  "description": "Ashes of Soul - Be ware of the damage from soul.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ceplavia"],
+  "credits": "Dyunsaan Studio",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
